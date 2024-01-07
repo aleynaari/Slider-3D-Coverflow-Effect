@@ -9,3 +9,9 @@
   list-style-type: none;
   text-decoration: none;
 }
+
+:root {
+    --primary: #ec994b;
+    --white: #ffffff;
+    --bg: #f5f5f5;
+  }
