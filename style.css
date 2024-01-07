@@ -126,28 +126,29 @@ html {
     top: 0;
     right: 0;
     bottom: 0;
-  }
+}
   
-  .tranding-slide-content .food-price {
+.tranding-slide-content .food-price {
     position: absolute;
     top: 2rem;
     right: 2rem;
     color: var(--white);
-  }
+}
 
-  .tranding-slide-content .tranding-slide-content-bottom {
+.tranding-slide-content .tranding-slide-content-bottom {
     position: absolute;
     bottom: 2rem;
     left: 2rem;
     color: var(--white);
-  }
+}
 
-  .food-rating {
+.food-rating {
     padding-top: 1rem;
     display: flex;
     gap: 1rem;
-  }
+}
 
-  .rating ion-icon {
+.rating ion-icon {
     color: var(--primary);
-  }
+}
+
