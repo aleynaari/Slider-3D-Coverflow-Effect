@@ -134,3 +134,10 @@ html {
     right: 2rem;
     color: var(--white);
   }
+
+  .tranding-slide-content .tranding-slide-content-bottom {
+    position: absolute;
+    bottom: 2rem;
+    left: 2rem;
+    color: var(--white);
+  }
