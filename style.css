@@ -141,3 +141,13 @@ html {
     left: 2rem;
     color: var(--white);
   }
+
+  .food-rating {
+    padding-top: 1rem;
+    display: flex;
+    gap: 1rem;
+  }
+
+  .rating ion-icon {
+    color: var(--primary);
+  }
