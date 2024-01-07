@@ -39,3 +39,15 @@ html {
       zoom: 2.5;
     }
 }
+
+::-webkit-scrollbar {
+    width: 1.3rem;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #222224;
+}
+
+::-webkit-scrollbar-track {
+    background: #f9f9f9;
+}
