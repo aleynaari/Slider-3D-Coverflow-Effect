@@ -183,3 +183,17 @@ html {
         transform: translateX(-80%) !important;
     }
 }
+
+@media (max-width:990px) {
+    .tranding-slider-control .swiper-button-left{
+        left: 30% !important;
+        transform: translateX(-30%) !important;
+    }
+}
+
+@media (max-width:450px) {
+    .tranding-slider-control .swiper-button-left{
+        left: 20% !important;
+        transform: translateX(-20%) !important;
+    }
+}
